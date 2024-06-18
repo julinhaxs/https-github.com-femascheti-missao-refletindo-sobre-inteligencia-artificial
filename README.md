@@ -1,1 +1,1 @@
-# https-github.com-femascheti-missao-refletindo-sobre-inteligencia-artificial
+-missao-refletindo-sobre-inteligencia-artificial
